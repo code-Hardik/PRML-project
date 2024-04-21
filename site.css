@@ -1,0 +1,76 @@
+/* site1.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif; /* Specify your preferred font-family */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%; /* Adjust container width as needed */
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 24pt;
+    margin-top: 50px;
+}
+
+/* Menu styles */
+.menu {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #190fe3; /* Adjust link color as needed */
+    text-decoration: underline; 
+    padding: 0 10px;
+}
+
+/* Paper section */
+.section {
+    
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.papers-list {
+    margin-top: 20px;
+}
+
+/* Team section */
+.team {
+    margin-top: 20px;
+}
+
+.team a {
+    text-decoration: none;
+     /* Adjust link color as needed */
+}
+
+/* Acknowledgment section */
+.ack {
+    margin-top: 20px;
+}
+
+/* Contact section */
+.contact {
+    margin-top: 20px;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #333; /* Adjust link color as needed */
+}
+
+/* Footer */
+footer {
+    background-color: #f4f4f4; /* Adjust footer background color as needed */
+    padding: 10px 0;
+    text-align: center;
+}
