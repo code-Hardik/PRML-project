@@ -55,6 +55,7 @@ body {
 
 /* Acknowledgment section */
 .ack {
+    text-align: justify;
     margin-top: 20px;
 }
 
